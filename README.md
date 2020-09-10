@@ -1,2 +1,2 @@
 # DosTool
-A very powerful dos/ddos tool
+A bit very powerful dos/ddos tool but good for testing
